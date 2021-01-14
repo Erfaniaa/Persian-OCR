@@ -1,9 +1,8 @@
 # Persian OCR
+> Offline optical character recognition of Persian letters, using deep learning and feature extraction
 
-Offline optical character recognition of Persian letters, using neural networks and feature extraction.
-
-No special libraries have been used in this project, so it was a good practice for us to learn image processing and neural networks algorithms.
-Read [https://github.com/Erfaniaa/Persian-OCR/blob/master/Persian-OCR.pdf](https://github.com/Erfaniaa/Persian-OCR/blob/master/Persian-OCR.pdf) for more details.
+This project was done in 2010. No special libraries have been used in that, so it was a good practice for us to learn image processing and convolutional neural networks from scratch.
+Read [this document](https://github.com/Erfaniaa/Persian-OCR/blob/master/Persian-OCR.pdf) for more details (in Persian).
 
 ## Screenshots
 
