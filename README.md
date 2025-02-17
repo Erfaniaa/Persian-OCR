@@ -19,4 +19,4 @@ Open the project using Embarcadero RAD Studio Delphi.
 
 ## Run
 
-Clone the project and run OCR.exe (in Windows).
+Clone the project and run OCR.exe (on Windows).
