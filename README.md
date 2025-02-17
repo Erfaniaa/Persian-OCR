@@ -10,7 +10,6 @@ Read [this document](https://github.com/Erfaniaa/Persian-OCR/blob/master/Persian
 ![ocr2](https://user-images.githubusercontent.com/7780269/46572356-46332d00-c991-11e8-9c89-8bbc7b9e2dd7.JPG)
 ![ocr3](https://user-images.githubusercontent.com/7780269/46572357-46332d00-c991-11e8-8f3f-8b8fe971f5ed.JPG)
 ![ocr4](https://user-images.githubusercontent.com/7780269/46572358-46cbc380-c991-11e8-9833-b884f4374901.JPG)
-![ocr5](https://user-images.githubusercontent.com/7780269/46572360-46cbc380-c991-11e8-8628-6d50326be4a5.JPG)
 
 ## Development
 
