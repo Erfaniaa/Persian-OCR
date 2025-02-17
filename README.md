@@ -1,7 +1,7 @@
-# Persian OCR (تشخیص حروف فارسی)
+# Persian OCR (تشخیص حروف فارسی با یادگیری عمیق و استخراج ویژگی‌ها)
 > Offline optical character recognition of Persian letters, using deep learning and feature extraction
 
-This project was done in 2010. No special libraries have been used in that, so it was a good practice for us to learn image processing, computer vision, and convolutional neural networks from scratch.
+This project was completed in 2010. No special libraries were used in it, so it was good practice for us to learn image processing, computer vision, and convolutional neural networks from scratch in middle school.
 Read [this document](https://github.com/Erfaniaa/Persian-OCR/blob/master/Persian-OCR.pdf) for more details (in Persian).
 
 ## Screenshots
